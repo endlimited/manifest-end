@@ -1,14 +1,14 @@
 {
-  "short_name": "E.N.D",
+  "short_name": "E.N.D Limited",
   "name": "E.N.D Limited",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-9sNTxHUL53U/XQ5VRV6kgJI/AAAAAAAAA5s/k1gdfxmBR5I9-BRENyKZnj5j5Avor-oQQCLcBGAs/s192/icons.png",
+      "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s192/icons.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://1.bp.blogspot.com/-9sNTxHUL53U/XQ5VRV6kgJI/AAAAAAAAA5s/k1gdfxmBR5I9-BRENyKZnj5j5Avor-oQQCLcBGAs/s512/icons.png",
+      "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s512/icons.png",
       "type": "image/png",
       "sizes": "512x512"
     }
