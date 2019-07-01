@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.endlimited.com/",
+  "start_url": "https://www.endlimited.com",
   "background_color": "#FFFFFF",
   "display": "standalone",
-  "scope": "https://www.endlimited.com/",
+  "scope": "/",
   "theme_color": "#265861"
 }
