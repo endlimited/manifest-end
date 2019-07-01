@@ -1,45 +1,19 @@
 {
   "short_name": "E.N.D Limited",
   "name": "E.N.D Limited",
-  "description": "Welcome to our store, where you can find trendy and affordable outfits for your every need. Take a look at our collection and enjoy shopping online with E.N.D Limited.",
   "icons": [
     {
-    "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s48/icons.png",
-    "sizes": "48x48",
-    "type": "image/png"
-    },
-    {
-    "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s72/icons.png",
-    "sizes": "72x72",
-    "type": "image/png"
-    }, 
-    {
-    "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s96/icons.png",
-    "sizes": "96x96",
-    "type": "image/png"
-    },
-    {
-    "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s144/icons.png",
-    "sizes": "144x144",
-    "type": "image/png"
-    },
-    {
-    "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s168/icons.png",
-    "sizes": "168x168",
-    "type": "image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s192/icons.png",
+      "src": "https://1.bp.blogspot.com/-9sNTxHUL53U/XQ5VRV6kgJI/AAAAAAAAA5s/k1gdfxmBR5I9-BRENyKZnj5j5Avor-oQQCLcBGAs/s192/icons.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://1.bp.blogspot.com/-btSKTUNFGKc/XRAcGa8LgJI/AAAAAAAAA6A/7Ucaf1xCvgQe1yvSxsDrkVd0Km67PKRGwCLcBGAs/s512/icons.png",
+      "src": "https://1.bp.blogspot.com/-9sNTxHUL53U/XQ5VRV6kgJI/AAAAAAAAA5s/k1gdfxmBR5I9-BRENyKZnj5j5Avor-oQQCLcBGAs/s512/icons.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.endlimited.com/",
+  "start_url": "https://www.endlimited.com/?m=1",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "https://www.endlimited.com/",
